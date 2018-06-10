@@ -15,6 +15,7 @@ function divide(a,b) {
 }
 
 function inc(n) {
+<<<<<<< HEAD
   return n += 1
 }
 
@@ -33,4 +34,9 @@ function preserveDecimal(n) {
 }
   
   
+=======
+  return n + 1
+  
+}
+>>>>>>> 58a21a2fe0893d32584a916134287325f8672222
 
